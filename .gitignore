@@ -1,0 +1,7 @@
+# ignore datafolders
+/getdata/test/
+/getdata/train/
+/getdata/*.txt
+
+# ignore cookbook while in buildup
+/getdata/CookBook.md
