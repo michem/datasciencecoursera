@@ -5,10 +5,9 @@ This project's aims is to get familiar with dirty data and tidy it for analysis.
 The data is collected from the accelerometers of a smartphone.
 
 
-Three files:
+Two files:
 * run_analysis.R
 * CodeBook.md
-* tidy data set
 
 ##run_analysis.R
 
@@ -23,4 +22,4 @@ Script to aggregate and clean the data:
 
 ##CodeBook.md
 
-Description of the files used and the final data set.
+Description of the files used, how to get them and the final data set.
